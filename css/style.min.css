@@ -1,0 +1,22 @@
+#div-bg-img {
+    background-image: url('../img/surfe_olimpiadas2.jpg');
+    background-size: cover;
+    height: 80vh;
+}
+
+#h1-titulo {
+    color: #fff;
+}
+
+#div-mask {
+    background-color: rgba(0, 32, 58, 0.5);
+}
+
+.text-div {
+    margin-top: 7%;
+    padding-top: 7%;
+}
+
+.bg-transparent {
+    background-color: rgba(0, 0, 0, 0.8) !important;
+}
