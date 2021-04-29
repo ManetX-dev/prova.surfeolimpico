@@ -3,9 +3,9 @@ p {
 }
 
 #div-bg-img {
-    background-image: url('../img/surfe_olimpiadas2.jpg');
+    background-image: url('../img/surfe_olimpiadas3.jpg');
     background-size: cover;
-    height: 80vh;
+    height: 100vh;
 }
 
 #h1-titulo {
@@ -13,18 +13,36 @@ p {
 }
 
 #div-mask {
-    background-color: rgba(0, 32, 58, 0.5);
+    padding: 20vh;
+    background-color: rgba(0, 0, 0, 0.5) !important;
 }
 
-.text-div {
-    margin-top: 7%;
-    padding-top: 7%;
-}
-
-.card-div {
-    margin-top: 19%;
+.bg-nav-menu {
+    background-color: rgba(0, 0, 0, 0.8) !important;
 }
 
 .bg-transparent {
-    background-color: rgba(0, 0, 0, 0.8) !important;
+    box-shadow: none;
+}
+
+.row-content-layout {
+    margin-top: 6%;
+}
+
+.dropdown-menu-profile {
+    color: #fff !important;
+}
+
+.figure-right {
+    margin-top: 10%;
+}
+
+.bg-footer {
+    background-color: rgba(0, 0, 0, 0.6) !important;
+}
+
+.p-label-profile {
+    margin: 0;
+    font-size: 13px;
+    font-weight: bold;
 }
